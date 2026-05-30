@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="230" width="230" src="(https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/504ddd40e83c4cde134c7ac378ea02114800233d/_%20(17).png)"/>
+  <img height="230" width="230" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/504ddd40e83c4cde134c7ac378ea02114800233d/_%20(17).png"/>
 </a>
 
 <p align="center">
