@@ -1,3 +1,4 @@
+                
 <p align="center">
   <img height="500" width="300" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/96ec7e3c50f4e408e3deb1c02d92c1e1d5a7f0d3/_%20(18).png"/>
 </a>
@@ -9,7 +10,6 @@ ${\color{#55575e}\normalsize{ꕀ}}$
 ${\color{#969489}\normalsize{⌗︶}}$ 
 ${\color{#ebe0bc}\normalsize{Mirror⠀Prns}}$ 
   </p>
-
 <p align="center">
   <img height="230" width="230" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/504ddd40e83c4cde134c7ac378ea02114800233d/_%20(17).png"/>
 </a>
@@ -30,3 +30,5 @@ ${\color{#ebe0bc}\normalsize{Mirror⠀Prns}}$
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=NariTheMakoShark&color=blue" alt="watching_count" />
 </p>
+
+ <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3b4557&width=445&lines=love+me+'til+I+love+you+too+much." alt="Typing SVG" /></a> </p>
