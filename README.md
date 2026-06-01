@@ -1,6 +1,6 @@
                 
 <p align="center">
-  <img height="500" width="300" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/96ec7e3c50f4e408e3deb1c02d92c1e1d5a7f0d3/_%20(18).png"/>
+  <img height="500" width="300" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/c86615c35aa7a39e92226fd9c98d44035d7e3661/Screenshot%202026-06-01%201.36.37%20PM%20(1).png"/>
 </a>
 <p align="center">
 ${\color{#4d6999}\normalsize{NariNari ﹒ꫂ᭪݁ }}$ 
