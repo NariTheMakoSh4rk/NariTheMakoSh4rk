@@ -17,10 +17,10 @@ ${\color{#4d6999}\normalsize{Mirror⠀Prns}}$
 
   <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8594a6&width=800&lines=love+me+'til+I+love+you+too+much.+Leave+me+'til+you+need+me+again" alt="Typing SVG" /></a> </p>
 </p>
+                
+<p align="center">
+  <img height="150" width="150" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/051e505f022215d2b4f89c81227a8da6c6c0d30d/Screenshot%202026-06-01%202.38.18%20PM%20(1).png"/>
+</a>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=NariTheMakoShark&color=grey" alt="watching_count" />
 </p>
-                
-<p align="center">
-  <img height="500" width="300" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/a78e6bf179011339a1fa32fc2f444ed7dfb66d83/_%20(17).png"/>
-</a>
