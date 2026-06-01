@@ -19,10 +19,5 @@ ${\color{#ebe0bc}\normalsize{Mirror⠀Prns}}$
  
 <p align="center">
 <a href="https://en.pronouns.page/@_NariNari_">
-  <img height="25" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/ceaca53e0d0d7f227d278ca0770d5079ac8e4953/Screenshot%202026-06-01%201.20.41%20PM%20(1).png"/>
-</a>
-</p>
-<p align="center">
-<a href="https://dootdoot.straw.page">
-  <img height="25" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/ceaca53e0d0d7f227d278ca0770d5079ac8e4953/Screenshot%202026-06-01%201.11.41%20PM%20(1).png"/>
+  <img height="25" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/ceaca53e0d0d7f227d278ca0770d5079ac8e4953/Screenshot%202026-06-01%201.20.41%20PM%20(1).png"/> <a href="https://dootdoot.straw.page"> ꕀ <img height="25" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/ceaca53e0d0d7f227d278ca0770d5079ac8e4953/Screenshot%202026-06-01%201.11.41%20PM%20(1).png"/>
 </a>
