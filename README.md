@@ -1,12 +1,21 @@
 <p align="center">
-  <img height="230" width="230" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/504ddd40e83c4cde134c7ac378ea02114800233d/_%20(17).png"/>
-</a>
-
-<p align="center">
-NariNari! X3
-<p align="center">
 Reworking, may take a while hmm hmm hmm
 
+<p align="center">
+<img src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/504ddd40e83c4cde134c7ac378ea02114800233d/_%20(17).png">
+</p>
+<p align="center">
+${\color{#4d6999}\normalsize{NariNari ﹒ꫂ᭪݁ }}$ 
+${\color{#55575e}\normalsize{ꕀ}}$ 
+  </p>
+<p align="center">
+${\color{#969489}\normalsize{⌗︶}}$ 
+${\color{#ebe0bc}\normalsize{Mirror⠀Prns}}$ 
+  </p>
+
+<p align="center">
+  <img height="230" width="230" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/504ddd40e83c4cde134c7ac378ea02114800233d/_%20(17).png"/>
+</a>
   <p align="center">
 <a href="https://narinari.atabook.org/">
   <img height="50" src="https://github.com/sh4rkcultsys/holder/blob/55c19be63d5d3f9f9866a3c376db260c35b13f2f/Screenshot%202026-03-18%202.09.12%20AM.png">
@@ -20,6 +29,7 @@ Reworking, may take a while hmm hmm hmm
 <a href="https://dootdoot.straw.page">
   <img height="50" src="https://github.com/sh4rkcultsys/holder/blob/17ba7b5ce06f17f2d240f3c6a3ab3b5f778abfc9/strawpage-20241011175558.png"/>
 </a>
+</p>
 <p align="center">
-  <img height="400" width="400" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/33d66473e7e26a0b3ec1a9a8c3d88ba65f0030b4/_%20(18).png"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=NariTheMakoShark&color=blue" alt="watching_count" />
+</p>
