@@ -20,3 +20,7 @@ ${\color{#4d6999}\normalsize{Mirror⠀Prns}}$
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=NariTheMakoShark&color=grey" alt="watching_count" />
 </p>
+                
+<p align="center">
+  <img height="500" width="300" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/a78e6bf179011339a1fa32fc2f444ed7dfb66d83/_%20(17).png"/>
+</a>
