@@ -17,6 +17,6 @@ ${\color{#ebe0bc}\normalsize{Mirror⠀Prns}}$
 
   <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3b4557&width=800&lines=love+me+'til+I+love+you+too+much.+Leave+me+'til+you+need+me+again" alt="Typing SVG" /></a> </p>
 </p>
-<p align="center">
+<p align="right">
 <img src="https://komarev.com/ghpvc/?username=NariTheMakoShark&color=blue" alt="watching_count" />
 </p>
