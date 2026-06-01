@@ -4,11 +4,11 @@
 </a>
 <p align="center">
 ${\color{#4d6999}\normalsize{NariNari ﹒ꫂ᭪݁ }}$ 
-${\color{#55575e}\normalsize{ꕀ}}$ 
+${\color{#516c8c}\normalsize{ꕀ}}$ 
   </p>
 <p align="center">
-${\color{#969489}\normalsize{⌗︶}}$ 
-${\color{#ebe0bc}\normalsize{Mirror⠀Prns}}$ 
+${\color{#516c8c}\normalsize{⌗︶}}$ 
+${\color{#4d6999}\normalsize{Mirror⠀Prns}}$ 
 
 <p align="center">
 <a href="https://en.pronouns.page/@_NariNari_">
