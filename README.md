@@ -12,10 +12,10 @@ ${\color{#ebe0bc}\normalsize{Mirror⠀Prns}}$
   </p>
 <p align="center">
 <a href="https://en.pronouns.page/@_NariNari_">
-  <img height="20" src="https://github.com/sh4rkcultsys/holder/blob/0e5fc181586a7d88818f3093a43a9e06d3f10036/images%20(1).png"/>
+  <img height="20" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/ceaca53e0d0d7f227d278ca0770d5079ac8e4953/Screenshot%202026-06-01%201.20.41%20PM%20(1).png"/>
 </a>
 <a href="https://dootdoot.straw.page">
-  <img height="20" src="https://github.com/sh4rkcultsys/holder/blob/17ba7b5ce06f17f2d240f3c6a3ab3b5f778abfc9/strawpage-20241011175558.png"/>
+  <img height="20" src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/ceaca53e0d0d7f227d278ca0770d5079ac8e4953/Screenshot%202026-06-01%201.11.41%20PM%20(1).png"/>
 </a>
 </p>
 <p align="center">
