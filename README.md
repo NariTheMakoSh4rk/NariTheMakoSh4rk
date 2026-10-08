@@ -1,4 +1,4 @@
-<img src="https://cdn.phototourl.com/member/2026-10-08-35266ae9-748a-4591-a540-ad9850fb4774.png" width="500" align="left">
+<img src="https://cdn.phototourl.com/member/2026-10-08-35266ae9-748a-4591-a540-ad9850fb4774.png" width="400" align="left">
 
 <p align="center">
 <img src="https://i.ibb.co/3WkTnZN/IMG-5071.png">  $${\color{#CEAF92}- ༻✿༺ -}$$  $${\color{#cca06a}  mirrorノprnsㅤ}$$ $${\color{#cca06a} 6teen 𓈒ㅤ}$$ $${\color{#cca06a}- ༻✿༺ -}$$  <img src="https://i.ibb.co/3WkTnZN/IMG-5071.png">ㅤ</br>
