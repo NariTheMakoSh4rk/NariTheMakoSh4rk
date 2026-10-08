@@ -6,11 +6,11 @@ $${\color{#9e805c}︵‿୨♡୧‿︵}$$ ㅤ</br>
 
 <p align="center">
 $${\color{#ab8b63}◟}$$
-$${\color{#ab8b63}c+h}$$ $${\color{#ab8b63}freely}$$ $${\color{#ab8b63}unless;}$$ $${\color{#ab8b63}on}$$ $${\color{#ab8b63}dni}$$ $${\color{#ab8b63}☆⌒(ゝ。∂) }$$ $${\color{#ab8b63}✿}$$ ㅤ</br>
+$${\color{#ab8b63}c+h}$$ $${\color{#ab8b63}always}$$ $${\color{#ab8b63}allowed}$$ $${\color{#ab8b63}unless}$$ $${\color{#ab8b63}DNI}$$ $${\color{#ab8b63}tag!}$$ </br>
 $${\color{#a5abb7}✦}$$ ㅤ</br>
-$${\color{#7F5791}i}$$ $${\color{#76518A}dont}$$ $${\color{#734F8B}have}$$ $${\color{#6D4A85}a}$$ $${\color{#694A86}dni}$$ $${\color{#7F5791}if}$$ $${\color{#76518A}i}$$ $${\color{#734F8B}have}$$ $${\color{#6D4A85}a}$$ $${\color{#694A86}problem}$$ $${\color{#7F5791}with}$$ $${\color{#76518A}someone}$$ $${\color{#734F8B}i}$$ $${\color{#6D4A85}just}$$ $${\color{#694A86}block}$$ $${\color{#694A86}them.}$$ㅤ</br>
+$${\color{#ab8b63}c+h}$$ ㅤ</br>
 $${\color{#a5abb7}✦}$$ ㅤ</br>
-$${\color{#7F5791}dont}$$ $${\color{#734F8B}copy}$$ $${\color{#694A86}any}$$ $${\color{#6D4A85}of}$$ $${\color{#694A86}my}$$ $${\color{#7F5791}work/skins.}$$ $${\color{#694A86}or}$$ $${\color{#694A86}take}$$ $${\color{#694A86}inspo.}$$ㅤ</br>
+$${\color{#ab8b63}c+h}$$ ㅤ</br>
 </p>
 
 <p align="center">
