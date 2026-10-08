@@ -8,9 +8,9 @@ $${\color{#9e805c}︵‿୨♡୧‿︵}$$ ㅤ</br>
 $${\color{#ab8b63}◟}$$
 $${\color{#ab8b63}c+h}$$ $${\color{#ab8b63}always}$$ $${\color{#ab8b63}allowed}$$ $${\color{#ab8b63}unless}$$ $${\color{#ab8b63}DNI}$$ $${\color{#ab8b63}tag!}$$ </br>
 $${\color{#a5abb7}✦}$$ ㅤ</br>
-$${\color{#ab8b63}c+h}$$ ㅤ</br>
+$${\color{#ab8b63}wip}$$ ㅤ</br>
 $${\color{#a5abb7}✦}$$ ㅤ</br>
-$${\color{#ab8b63}c+h}$$ ㅤ</br>
+$${\color{#ab8b63}wip}$$ ㅤ</br>
 </p>
 
 <p align="center">
@@ -23,4 +23,7 @@ $${\color{#CEAF92}✦}$$ ㅤ</br>
 $${\color{#CEAF92}−−−−−−−−˚₊‧꒰ა☆໒꒱‧₊˚˗−−−−−−}$$
 
 <p align="center">
-$${\color{#853d7d}haiihioohi}$$ $${\color{#853d7d}gift}$$ $${\color{#853d7d}me}$$ $${\color{#853d7d}wemmbu}$$ $${\color{#853d7d}or}$$ $${\color{#853d7d}spoke}$$ $${\color{#853d7d}skins}$$ $${\color{#853d7d}please}$$ $${\color{#853d7d}!!}$$ $${\color{#853d7d}:3}$$ ㅤ</br>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3132oyvnvvys6hauidczjeskiz4a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
+</p>
