@@ -15,6 +15,7 @@ $${\color{#ab8b63}wip}$$ ㅤ</br>
 
 <p align="center">
 $${\color{#CEAF92}✦}$$ ㅤ</br>
+<img src="https://hits.sh/github.com/NariTheMakoSh4rk.svg?style=plastic&label=Viewed&extraCount=967&color=e0986d&labelColor=7c665d&logo=roblox" alt="Description" width="100">
 
 <p align="center">
 <img src="https://cdn.phototourl.com/member/2026-10-08-b3d22d45-66ac-40f7-babf-8578e0193c0a.png" width="100" align="center">
