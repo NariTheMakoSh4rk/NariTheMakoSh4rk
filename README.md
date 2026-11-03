@@ -28,6 +28,7 @@ $${\color{#CEAF92}−−−−−−−−˚₊‧꒰ა☆໒꒱‧₊˚˗−�
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3132oyvnvvys6hauidczjeskiz4a&cover_image=true&theme=novatorem&show_offline=false&background_color=726040&interchange=false&profanity=false&hide_remaster=false&bar_color=cbaa7c&bar_color_cover=false">
   </a>
 </p>
+
 <details>
 <summary>${{\color{#fa9150}\normalsize{\textsf{Mentions!}}}}$</summary>
 Click the picture to visit the page!
