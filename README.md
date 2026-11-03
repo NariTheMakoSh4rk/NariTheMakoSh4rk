@@ -30,7 +30,8 @@ $${\color{#CEAF92}−−−−−−−−˚₊‧꒰ა☆໒꒱‧₊˚˗−�
 </p>
 <details>
 <summary>${{\color{#fa9150}\normalsize{\textsf{Mentions!}}}}$</summary>
-
+Click the picture to visit the page!
+  
 [![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/503b1689b6040baed45259f85cb9b7a8ed73cf82/Screenshot%202026-11-03%203.12.39%20PM.png)](https://github.com/pt-of-forsaken)
 
   </details>
