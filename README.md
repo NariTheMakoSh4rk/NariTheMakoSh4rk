@@ -8,7 +8,7 @@ $${\color{#9e805c}︵‿୨♡୧‿︵}$$ ㅤ</br>
 $${\color{#ab8b63}◟}$$
 $${\color{#ab8b63}c+h}$$ $${\color{#ab8b63}always}$$ $${\color{#ab8b63}allowed}$$ $${\color{#ab8b63}unless}$$ $${\color{#ab8b63}DNI}$$ $${\color{#ab8b63}tag!}$$ </br>
 $${\color{#a5abb7}✦}$$ ㅤ</br>
-$${\color{#ab8b63}j}$$ $${\color{#ab8b63}j}$$ </br>
+$${\color{#ab8b63}Heavy}$$ $${\color{#ab8b63}Contractee}$$ $${\color{#ab8b63}and}$$ $${\color{#ab8b63}Spade}$$ $${\color{#ab8b63}Coping-Link}$$ </br>
 $${\color{#a5abb7}✦}$$ ㅤ</br>
 $${\color{#ab8b63}wip}$$ ㅤ</br>
 </p>
