@@ -28,3 +28,10 @@ $${\color{#CEAF92}−−−−−−−−˚₊‧꒰ა☆໒꒱‧₊˚˗−�
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3132oyvnvvys6hauidczjeskiz4a&cover_image=true&theme=novatorem&show_offline=false&background_color=726040&interchange=false&profanity=false&hide_remaster=false&bar_color=cbaa7c&bar_color_cover=false">
   </a>
 </p>
+<details>
+<summary>${{\color{#fa9150}\normalsize{\textsf{Mentions!}}}}$</summary>
+
+[![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/503b1689b6040baed45259f85cb9b7a8ed73cf82/Screenshot%202026-11-03%203.12.39%20PM.png)](https://github.com/pt-of-forsaken)
+
+  </details>
+</div>
