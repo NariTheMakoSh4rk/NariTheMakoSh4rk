@@ -9,16 +9,18 @@ $${\color{#ab8b63}◟}$$
 $${\color{#ab8b63}c+h}$$ $${\color{#ab8b63}always}$$ $${\color{#ab8b63}allowed}$$ $${\color{#ab8b63}unless}$$ $${\color{#ab8b63}DNI}$$ $${\color{#ab8b63}tag!}$$ </br>
 $${\color{#a5abb7}✦}$$ ㅤ</br>
 $${\color{#ab8b63}Heavy}$$ $${\color{#ab8b63}Contractee}$$ $${\color{#ab8b63}and}$$ $${\color{#ab8b63}Spade}$$ $${\color{#ab8b63}Coping-Link}$$ </br>
+$${\color{#a5abb7}✦}$$ ㅤ</br>
+$${\color{#ab8b63}Hypersharing}$$ $${\color{#ab8b63}Mafioso}$$ $${\color{#ab8b63}Yumeshipper}$$ </br>
+$${\color{#ab8b63}✦}$$ ㅤ</br>
 </p>
 
-
 <p align="center">
-$${\color{#CEAF92}✦}$$ ㅤ</br>
+$${\color{#ab8b63} }$$ ㅤ</br>
 <img src="https://hits.sh/github.com/NariTheMakoSh4rk.svg?style=plastic&label=Viewed&extraCount=967&color=e0986d&labelColor=7c665d&logo=roblox" alt="Description" width="100">
 
 <p align="center">
 <img src="https://cdn.phototourl.com/member/2026-10-08-b3d22d45-66ac-40f7-babf-8578e0193c0a.png" width="100" align="center">
-  
+
 <p align="center">
 $${\color{#CEAF92}−−−−−−−−˚₊‧꒰ა☆໒꒱‧₊˚˗−−−−−−}$$
 
@@ -31,7 +33,7 @@ $${\color{#CEAF92}−−−−−−−−˚₊‧꒰ა☆໒꒱‧₊˚˗−�
 <details>
 <summary>${{\color{#fa9150}\normalsize{\textsf{Mentions!}}}}$</summary>
 Click the picture to visit the page!
-  
+
 [![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/503b1689b6040baed45259f85cb9b7a8ed73cf82/Screenshot%202026-11-03%203.12.39%20PM.png)](https://github.com/pt-of-forsaken)
 
   </details>
