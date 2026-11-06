@@ -41,8 +41,9 @@ Click the picture to visit the page!
 </div>
 
 <details>
-<summary>${{\color{#73eef5}\normalsize{\textsf{Cool people}}}}$</summary>
-︵‿︵‿  ◟ <a href="https://github.com/ElliotGubby" target="_blank">@ElliotGubby</a>
+<summary>${{\color{#73eef5}\normalsize{\textsf{ }}}}$</summary>
+︵‿୨♡♡୧‿︵ <br>
+  <a href="https://github.com/ElliotGubby" target="_blank">@ElliotGubby</a>
 
   </details>
 </div>
