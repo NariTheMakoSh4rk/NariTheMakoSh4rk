@@ -22,8 +22,15 @@ $${\color{#ab8b63} }$$ ㅤ</br>
 <img src="https://cdn.phototourl.com/member/2026-10-08-b3d22d45-66ac-40f7-babf-8578e0193c0a.png" width="100" align="center">
 
 <p align="center">
-  <summary>${\color{#CEAF92}−−−−−−−−˚₊‧꒰ა☆໒꒱‧₊˚˗−−−−−−}$$
-ed
+$${\color{#CEAF92}−−−−−−−−˚₊‧꒰ა☆໒꒱‧₊˚˗−−−−−−}$$
+  
+<details>
+<summary>${{\color{#73eef5}\normalsize{\textsf{Cool people}}}}$</summary>
+Click the picture to visit the page!
+
+[![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/503b1689b6040baed45259f85cb9b7a8ed73cf82/Screenshot%202026-11-03%203.12.39%20PM.png)](https://github.com/pt-of-forsaken)
+
+[![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/020ce90210666066ac6da1baac4b30b41c0d7957/Screenshot%202026-11-04%205.01.11%20PM.png)](https://github.com/daggerstruckmage)
   </details>
 </div>
 
