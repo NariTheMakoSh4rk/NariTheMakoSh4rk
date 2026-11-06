@@ -40,10 +40,10 @@ Click the picture to visit the page!
   </details>
 </div>
 
-<details>
-<summary>${{\color{#73eef5}\normalsize{\textsf{ }}}}$</summary>
-︵‿୨♡♡୧‿︵ <br>
-  <a href="https://github.com/ElliotGubby" target="_blank">@ElliotGubby</a>
-
+<div aline="center">
+  <details>
+    <summary>${{\color{#73eef5}\normalsize{\textsf{ }}}}$</summary>
+    <p> ︵‿୨♡Friends!♡୧‿︵ <br>
+    ₊ ₊ ₊<a href="https://github.com/ElliotGubby" target="_blank">@ElliotGubby</a>
   </details>
 </div>
