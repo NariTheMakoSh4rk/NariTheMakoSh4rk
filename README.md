@@ -43,6 +43,7 @@ Click the picture to visit the page!
 <details>
 <summary>${{\color{#73eef5}\normalsize{\textsf{Cool people}}}}$</summary>
 ︵‿︵‿  ◟
-  [ElliotGubby](https://github.com/ElliotGubby)
+.
+[ElliotGubby](https://github.com/ElliotGubby)
   </details>
 </div>
