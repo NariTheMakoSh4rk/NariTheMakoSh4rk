@@ -24,16 +24,6 @@ $${\color{#ab8b63} }$$ ㅤ</br>
 <p align="center">
 $${\color{#CEAF92}−−−−−−−−˚₊‧꒰ა☆໒꒱‧₊˚˗−−−−−−}$$
   
-<details>
-<summary>${{\color{#73eef5}\normalsize{\textsf{Cool people}}}}$</summary>
-Click the picture to visit the page!
-
-[![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/503b1689b6040baed45259f85cb9b7a8ed73cf82/Screenshot%202026-11-03%203.12.39%20PM.png)](https://github.com/pt-of-forsaken)
-
-[![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/020ce90210666066ac6da1baac4b30b41c0d7957/Screenshot%202026-11-04%205.01.11%20PM.png)](https://github.com/daggerstruckmage)
-  </details>
-</div>
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3132oyvnvvys6hauidczjeskiz4a&cover_image=true&theme=novatorem&show_offline=false&background_color=726040&interchange=false&profanity=false&hide_remaster=false&bar_color=cbaa7c&bar_color_cover=false">
@@ -47,5 +37,11 @@ Click the picture to visit the page!
 [![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/503b1689b6040baed45259f85cb9b7a8ed73cf82/Screenshot%202026-11-03%203.12.39%20PM.png)](https://github.com/pt-of-forsaken)
 
 [![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/020ce90210666066ac6da1baac4b30b41c0d7957/Screenshot%202026-11-04%205.01.11%20PM.png)](https://github.com/daggerstruckmage)
+  </details>
+</div>
+
+<details>
+<summary>${{\color{#73eef5}\normalsize{\textsf{Cool people}}}}$</summary>
+︵‿︵‿  ◟ [@ElliotGubby](https://github.com/ElliotGubby) 
   </details>
 </div>
