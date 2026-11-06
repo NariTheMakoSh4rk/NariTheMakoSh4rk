@@ -22,7 +22,10 @@ $${\color{#ab8b63} }$$ ㅤ</br>
 <img src="https://cdn.phototourl.com/member/2026-10-08-b3d22d45-66ac-40f7-babf-8578e0193c0a.png" width="100" align="center">
 
 <p align="center">
-$${\color{#CEAF92}−−−−−−−−˚₊‧꒰ა☆໒꒱‧₊˚˗−−−−−−}$$
+  <summary>${\color{#CEAF92}−−−−−−−−˚₊‧꒰ა☆໒꒱‧₊˚˗−−−−−−}$$
+ed
+  </details>
+</div>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
