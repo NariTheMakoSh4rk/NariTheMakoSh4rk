@@ -21,9 +21,22 @@ $${\color{#ab8b63} }$$ ㅤ</br>
 <p align="center">
 <img src="https://cdn.phototourl.com/member/2026-10-08-b3d22d45-66ac-40f7-babf-8578e0193c0a.png" width="100" align="center">
 
-<p align="center">
-$${\color{#CEAF92}−−−−−−−−˚₊‧꒰ა☆໒꒱‧₊˚˗−−−−−−}$$
-  
+<div align="center">
+  <details>
+    <summary>
+      $\color{#73eef5}{\textbf{︵‿୨♡Friends!♡୧‿︵}}$
+    </summary>
+    <br>
+    <p>
+      ₊ ₊ ₊ ₊ <a href="https://github.com/ElliotGubby" target="_blank">@ElliotGubby</a> ₊ ₊ ₊ ₊ <br>
+      ₊ ₊ ₊ ₊ <a href="https://github.com/ZukaKinnie" target="_blank">@ZukaKinnie</a> ₊ ₊ ₊ ₊ <br>
+      $\color{#73eef5}{\text{------------------------}}$
+    </p>
+  </details>
+</div>
+
+
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3132oyvnvvys6hauidczjeskiz4a&cover_image=true&theme=novatorem&show_offline=false&background_color=726040&interchange=false&profanity=false&hide_remaster=false&bar_color=cbaa7c&bar_color_cover=false">
@@ -37,13 +50,5 @@ Click the picture to visit the page!
 [![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/503b1689b6040baed45259f85cb9b7a8ed73cf82/Screenshot%202026-11-03%203.12.39%20PM.png)](https://github.com/pt-of-forsaken)
 
 [![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/020ce90210666066ac6da1baac4b30b41c0d7957/Screenshot%202026-11-04%205.01.11%20PM.png)](https://github.com/daggerstruckmage)
-  </details>
-</div>
-
-<div aline="center">
-  <details>
-    <summary>${{\color{#73eef5}\normalsize{\textsf{︵‿୨♡Friends!♡୧‿︵}}}}$</summary>
-    ₊ ₊ ₊ ₊ <a href="https://github.com/ElliotGubby" target="_blank">@ElliotGubby</a> <br>
-        ₊ ₊ ₊ ₊ <a href="https://github.com/ZukaKinnie" target="_blank">@ZukaKinnie</a>
   </details>
 </div>
