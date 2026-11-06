@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://i.ibb.co/3WkTnZN/IMG-5071.png">  $${\color{#CEAF92}- ༻✿༺ -}$$  $${\color{#cca06a}  mirrorノprnsㅤ}$$ $${\color{#cca06a} 6teen 𓈒ㅤ}$$ $${\color{#cca06a}- ༻✿༺ -}$$  <img src="https://i.ibb.co/3WkTnZN/IMG-5071.png">ㅤ</br>
-$$ \tiny{\color{#9e805c}︵‿୨♡୧‿︵} $$ ㅤ</br>
+$\small\color{#9e805c}\text{︵‿୨♡୧‿︵}$ ㅤ</br>
 
 <p align="center">
 $${\color{#ab8b63}◟}$$
