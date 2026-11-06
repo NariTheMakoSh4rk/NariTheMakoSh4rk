@@ -43,7 +43,6 @@ Click the picture to visit the page!
 <div aline="center">
   <details>
     <summary>${{\color{#73eef5}\normalsize{\textsf{︵‿୨♡Friends!♡୧‿︵}}}}$</summary>
-    <p> ︵‿୨♡Friends!♡୧‿︵ <br>
-    ₊ ₊ ₊<a href="https://github.com/ElliotGubby" target="_blank">@ElliotGubby</a>
+    ₊ ₊ ₊ ₊ <a href="https://github.com/ElliotGubby" target="_blank">@ElliotGubby</a>
   </details>
 </div>
