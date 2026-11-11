@@ -28,8 +28,8 @@ $${\color{#ab8b63} }$$ ㅤ</br>
     </summary>
     <br>
     <p>
-      ₊ ₊ ₊ ₊ <a href="https://github.com/ElliotGubby" target="_blank">Sun-lit Soldier</a> ₊ ₊ ₊ ₊ <br>
-      ₊ ₊ ₊ ₊ <a href="https://github.com/ZukaKinnie" target="_blank">Sugu —✧—</a> ₊ ₊ ₊ ₊ <br>
+      ₊ ₊ ₊ ₊ <a href="https://github.com/ElliotGubby" target="_blank">@ElliotGubby</a> ₊ ₊ ₊ ₊ <br>
+      ₊ ₊ ₊ ₊ <a href="https://github.com/ZukaKinnie" target="_blank">@ZukaKinnie</a> ₊ ₊ ₊ ₊ <br>
       ₊ ₊ ₊ ₊ 
       $${\color{#4786de} Noah }$$
       ₊ ₊ ₊ ₊ <br>
