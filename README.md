@@ -28,6 +28,9 @@ $${\color{#ab8b63} }$$ ㅤ</br>
     </summary>
     <br>
     <p>
+      ₊ ₊ ₊ ₊ 
+      $$\underline{\color{#4786de}\text{♯ Ely ᢉ𐭩}}$$
+      ₊ ₊ ₊ ₊ <br>
       ₊ ₊ ₊ ₊ <a href="https://github.com/ElliotGubby" target="_blank">@ElliotGubby</a> ₊ ₊ ₊ ₊ <br>
       ₊ ₊ ₊ ₊ <a href="https://github.com/ZukaKinnie" target="_blank">@ZukaKinnie</a> ₊ ₊ ₊ ₊ <br>
       ₊ ₊ ₊ ₊ 
