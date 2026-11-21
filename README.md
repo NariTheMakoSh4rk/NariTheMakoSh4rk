@@ -37,11 +37,11 @@ $${\color{#ab8b63} }$$ ㅤ</br>
       $$\underline{\color{#4786de}\text{@ Noah}}$$
       ₊ ₊ ₊ ₊ <br>
       ₊ ₊ ₊ ₊ <a href="https://github.com/dried-fishbone" target="_blank">@dried-fishbone</a> ₊ ₊ ₊ ₊ <br>
+      ₊ ₊ ₊ ₊ <a href="https://github.com/voidbat" target="_blank">@voidbat</a> ₊ ₊ ₊ ₊ <br>
       $\color{#73eef5}{\text{------------------------}}$
     </p>
   </details>
 </div>
-
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
