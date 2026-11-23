@@ -56,10 +56,8 @@ $${\color{#ab8b63} }$$ ㅤ</br>
     <br>
     
 [![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/020ce90210666066ac6da1baac4b30b41c0d7957/Screenshot%202026-11-04%205.01.11%20PM.png)](https://github.com/daggerstruckmage) <br>
-[![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/503b1689b6040baed45259f85cb9b7a8ed73cf82/Screenshot%202026-11-03%203.12.39%20PM.png)](https://github.com/pt-of-forsaken)
+[![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/503b1689b6040baed45259f85cb9b7a8ed73cf82/Screenshot%202026-11-03%203.12.39%20PM.png)](https://github.com/pt-of-forsaken) <br>
+[![Alt Text](https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/d87997bf8ae66266e302fce11f94ad5c5f98967f/Screenshot%202026-11-23%2012.16.48%20AM.png)](https://github.com/pt-everypony)
     </p>
   </details>
 </div>
-
-
-https://github.com/pt-everypony
