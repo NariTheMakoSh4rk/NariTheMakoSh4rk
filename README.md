@@ -51,7 +51,7 @@ $${\color{#ab8b63} }$$ ㅤ</br>
 <div align="center">
   <details>
     <summary>
-      $\color{#ffa915}{\textbf{Mentions!}}$
+      $\color{#ffa915}{\textbf{Nominations!}}$
     </summary>
     <br>
     
@@ -60,3 +60,6 @@ $${\color{#ab8b63} }$$ ㅤ</br>
     </p>
   </details>
 </div>
+
+
+https://github.com/pt-everypony
