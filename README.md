@@ -34,7 +34,7 @@ $${\color{#ab8b63} }$$ ㅤ</br>
       ₊ ₊ ₊ ₊ <a href="https://github.com/ElliotGubby" target="_blank">@ElliotGubby</a> ₊ ₊ ₊ ₊ <br>
       ₊ ₊ ₊ ₊ <a href="https://github.com/ZukaKinnie" target="_blank">@ZukaKinnie</a> ₊ ₊ ₊ ₊ <br>
       ₊ ₊ ₊ ₊ 
-      $$\underline{\color{#4786de}\text{@Noah}}$$
+      $$\underline{\color{#4786de}\text{@Angel}}$$
       ₊ ₊ ₊ ₊ <br>
       ₊ ₊ ₊ ₊ <a href="https://github.com/voidbat" target="_blank">@voidbat</a> ₊ ₊ ₊ ₊ <br>
       $\color{#73eef5}{\text{------------------------}}$
